@@ -4,8 +4,6 @@
 
 I'm Austin Virgin, a student at Brigham Young University-Idaho interested in computer science, and machine learning. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
-
 ## About Me
 - My goals are to become a succesful machine learning engineer and hopefully someday be in the frontend of leading edge machine learning devolopment.
 
