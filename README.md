@@ -12,10 +12,10 @@ I'm Austin Virgin, a student at Brigham Young University-Idaho interested in com
 - Skills: Teamwork, logic
 
 ## Let's Connect!
-- Here is my [LinkedIn] (www.linkedin.com/in/austin-virgin21) profile!
+- Here is my [LinkedIn](www.linkedin.com/in/austin-virgin21) profile!
 
 ## Favorite Projects
-- [Game project] (https://github.com/austinvirgin/Game)
-- [RL guided project] (https://github.com/austinvirgin/doom_rl)
-- [Recursive project] (https://github.com/austinvirgin/RecursiveSudokuSolver)
-- [Google Maps API Project] (https://github.com/austinvirgin/TimeToLeave)
+- [Game project](https://github.com/austinvirgin/Game)
+- [RL guided project](https://github.com/austinvirgin/doom_rl)
+- [Recursive project](https://github.com/austinvirgin/RecursiveSudokuSolver)
+- [Google Maps API Project](https://github.com/austinvirgin/TimeToLeave)
